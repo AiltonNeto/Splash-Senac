@@ -70,6 +70,7 @@ namespace WindowsFormsApplication1
             lstClientes.Add(DadosCliente);
 
             return lstClientes;
+
         }
 
         private List<Telefone> InserirContatos()
